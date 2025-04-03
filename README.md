@@ -2,7 +2,7 @@
 # Hi, I am Predrag Stamenkovic! 👋
 
 ## 🚀 About Me
-I'm a game developer of 7 years. Main engine I worked in is Unity, and worked with Unreal engine in free time. Main platforms I worked for was mobile, and of the projects that was most popular was Diableros, reaching 1 million downloads. Gameplay system and mechanics are favourite part of programming, as well as creating AI opponents, with AI opponet I made for Football Clash Arena successfully fooled great percentage of players into thinking they played real people.
+I'm a gamer turned gamed developer. Mainly work in Unity, and worked with Unreal engine in free time. Game design and system mechanics are my favourite part of game development, with close favourite being creating AI opponents. Strategy games, especially turn-based, are my favourite gaming genre, which may coincide with why I like making complex systems, with branching options, and almost limitless opportunities.
 
 Currently I am working on a personal game project, which is a rougelike strategy survival game. It is inspired by games like Civilization and Against the Storm.
 
