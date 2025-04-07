@@ -2,7 +2,7 @@
 # Hi, I am Predrag Stamenkovic! 👋
 
 ## 🚀 About Me
-I'm a gamer turned gamed developer. Mainly work in Unity, and worked with Unreal engine in free time. Game design and system mechanics are my favourite part of game development, with close favourite being creating AI opponents. Strategy games, especially turn-based, are my favourite gaming genre, which may coincide with why I like making complex systems, with branching options, and almost limitless opportunities.
+I'm a gamer turned game developer. Mainly work in Unity, and worked with Unreal engine in free time. Game design and system mechanics are my favourite part of game development, with close favourite being creating AI opponents. Strategy games, especially turn-based, are my favourite gaming genre, which may coincide with why I like making complex systems, with branching options, and almost limitless opportunities.
 
 Currently I am working on a personal game project, which is a rougelike strategy survival game. It is inspired by games like Civilization and Against the Storm.
 
